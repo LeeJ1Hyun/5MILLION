@@ -87,18 +87,6 @@
 
 ##  기술 스택
 <div align=left>
-- 프론트엔드 <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-58c3cc?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-58c3cc?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-58c3cc?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRA-58c3cc?style=flat-square&logo=Create-React-App&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Router Dom-gray?style=flat-square&logo=React-Router&logoColor=F6BB43"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eslint-000066?style=flat-square&logo=eslint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/prettier-00CC00?style=flat-square&logo=eslint&logoColor=white"/>
-
-
-<br>
 - 백앤드 <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-008000?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000080?style=flat-square&logo=Express&logoColor=white"/>
@@ -113,17 +101,6 @@
 
 
 ## (BE)💘 구현 API 및 업무 소개
-
-### 이솔
-- Express 초기 세팅
-- ERD 모델링
-- instructors 조회 API (GET)
-  - limit, offset 을 이용해 페이징 처리
-- instructors 상세 조회 API (GET)
-  - Instructor id 를 통해 해당 instructor 상세 페이지 조회 기능 구현
-  - 에러 메세지를 반환 예외 처리 구현
-
-<br/>
 
 ### 이지현
 - Express 초기 세팅
@@ -183,36 +160,6 @@
 - &#128073; [API 명세서 보러가기](https://documenter.getpostman.com/view/22697866/VV4xuvL2#0cc2f620-598b-47bb-a228-a5636c2291d8)
 
 <br/>
-
-## 💘 (FE) 담당 페이지 소개 
-- 김준호 : 
-   #### 1. 메인페이지 구현
-   
-   - ReactPlayer 라이브러리 사용
-   - Slick - Caroucel 라이브러리 사용
-
-   #### 2. Instructor 페이지 구현
-   
-   #### 3. Instructor Detail 페이지 구현
-   
-   - useParams를 이용한 동적라우팅 및 컴포넌트 재사용
-  
-- 문경용 : 
-- 이주영 :
-  
-  ### 1. NAV 바 구현
-  
-  ### 2. 스케줄 예약 페이지
-  
-  - #### 필터 기능
-  - #### 달력 UI 구현
-  - #### 예약 기능
-  
-
-
-## 팀 프로젝트 노션 링크 
- - [5M 노션 페이지로 가기](https://wecode.notion.site/5MILLION-44f8de800da145ecb6304292d14df0e1)
-
 
 ## 팀 회고록 
 - [5M 회고록 보러가기](https://wecode.notion.site/e50db6e5582843dba49c6d3aee6af41a)
