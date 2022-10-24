@@ -106,7 +106,7 @@
 - Express 초기 세팅
 - ERD 모델링
 - social(카카오) login API (POST)
-  - [사용자 정보 가져오기 API]([https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#req-user-info)를](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#req-user-info)%EB%A5%BC) 이용하여 axios함수 요청으로 kakao_id를 포함한 유저의 정보를 DB에 등록
+  - [사용자 정보 가져오기 API](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#req-user-info)를 이용하여 axios함수 요청으로 kakao_id를 포함한 유저의 정보를 DB에 등록
   - kakao_id를 payload에 담아 5MILLION만의 access_token 발급 
 - schedule 조회 API (GET)
   - instructor, classType 조건으로 필터링하여 schedules 조회
